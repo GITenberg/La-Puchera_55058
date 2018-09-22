@@ -1,0 +1,31 @@
+_repo: La-Puchera_55058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pereda, José María de
+    aliases:
+    - Pereda, Jose Maria de
+    - Porrua, Jose Maria de Pereda y Sanchez
+    - Porrúa, José María de Pereda y Sánchez
+    - De Pereda, José María
+    - Sánchez Porrúa, José María de Pereda y
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '4463'
+    url: http://www.gutenberg.org/2009/agents/4463
+    wikipedia: http://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
+description: ''
+gutenberg_issued: '2017-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55058'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: La Puchera
+url: http://www.gutenberg.org/ebooks/55058
